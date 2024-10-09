@@ -1,4 +1,4 @@
-# Heideheren 2024
+# Heideheeren 2024
 
 1. [Data prompting](https://github.com/datadrivendecisions/intro-python/blob/main/datamining.ipynb)
 2. [Retrieval Augmented Generation](https://chatgpt.com/gpts/editor/g-KggKQZmrD) and [vector embeddings](https://colab.research.google.com/drive/1BoRkb_tL-hFQ6MHMggBjX-xrAM-GOyfO)
